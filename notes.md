@@ -1,5 +1,15 @@
-Две регулярки для открытого и закрытого тегов.
+# htmlTagObject :  {
 
-Будет булевская переменная tagIsClosed
+# openedTag:"<>",
+
+# closedTag:"</>",
+
+# content:"",
+
+# nestingCount:0
+
+# children: htmlTagObject[]
+
+# }
 
 
